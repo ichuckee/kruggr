@@ -1,3 +1,3 @@
 # Sample Application.
 
-This is a sample application fro teaching myself to code.
+This is a sample application for teaching myself to code.
